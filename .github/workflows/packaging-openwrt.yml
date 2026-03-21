@@ -71,6 +71,7 @@ on:
           - 6.6.y
           - 6.1.y_6.6.y
           - 5.15.y_5.10.y
+          - 6.12.y_6.18.y
       kernel_repo:
         description: "Set the kernel repository"
         required: false
